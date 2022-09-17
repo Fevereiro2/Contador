@@ -1,0 +1,17 @@
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\bin\Debug\net6.0-windows\FevereiroContador.exe
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\bin\Debug\net6.0-windows\FevereiroContador.deps.json
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\bin\Debug\net6.0-windows\FevereiroContador.runtimeconfig.json
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\bin\Debug\net6.0-windows\FevereiroContador.dll
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\bin\Debug\net6.0-windows\FevereiroContador.pdb
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.Form1.resources
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.csproj.GenerateResource.cache
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.AssemblyInfo.cs
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.dll
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\refint\FevereiroContador.dll
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.pdb
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\FevereiroContador.genruntimeconfig.cache
+C:\Users\pedro\source\repos\FevereiroContador\FevereiroContador\obj\Debug\net6.0-windows\ref\FevereiroContador.dll
